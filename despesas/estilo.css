@@ -1,0 +1,45 @@
+h1{
+	color: white;
+	margin-left: 0.3em;
+	padding-top: 1em;
+}
+
+h3{
+	background-color: #3a393b;
+	color:white;
+	margin-left: 0.5em;
+}
+#botao{
+	margin-left: 0.8em;
+}
+
+.corpo{
+	background-color: #3a393b;
+}
+#tabela{
+	margin-left: 0.2em;
+	margin-right: 2em;
+	width: 85em;
+}
+#subtitulo{
+	color: white;
+	margin-left: 0.7em;
+}
+#ident{
+	color:white;
+}
+.campo{
+	margin-left: 0.4em;
+}
+#botao1{
+	margin-left: 2em;
+}
+#bot2{
+	margin-left: 0.4em;
+}
+#but{
+	margin-left: 0.5em;
+}
+#exclui{
+	margin-right: 1em;
+}
