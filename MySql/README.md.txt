@@ -1,0 +1,1 @@
+Para executar esse banco de dados é necessário criar uma base de dados no phpMyAdmin v5.1.1 e importar o script '127_0_0_1' para esta base.
